@@ -1,5 +1,5 @@
 ### Hi there 👋
-## -🔭 I’m currently working on OOP project and ML along side
+-🔭 I’m currently working on OOP project and ML along side
 
 
 <!--
